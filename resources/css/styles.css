@@ -1,0 +1,71 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.heading h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.heading a {
+  font-size: 18px;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.heading {
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+.process h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.process h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.process p {
+  font-size: 14px;
+}
+
+.designedNewYork p {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.designedNewYork {
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+.genInfo h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.genInfo p {
+  font-size: 14px;
+}
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+}
+
+.footer a {
+  color: white;
+}
+
+.copy {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
